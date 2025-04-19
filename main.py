@@ -136,6 +136,16 @@ def experiment3_R_P(V, I, R):
     fig.tight_layout()
     plt.savefig("Output/Exp3_R_vs_power.pdf", dpi=300, bbox_inches='tight')
 
+def V_vs_I(V, I, filename):
+    fig, ax1 = plt.subplots(figsize=(6, 4))  # Set consistent figure size
+
+    # First y-axis
+    ax1.plot(I, V, label="Current vs Voltage", color="Black", marker="^", markersize=8, linewidth=0.75, markerfacecolor='white')
+    ax1.set_xlabel("Current (A)", fontsize=10)
+    ax1.set_ylabel("Voltage (V)", fontsize=10)
+
+    fig.tight_layout()
+    plt.savefig('Output/{}.pdf'.format(filename), dpi=300, bbox_inches='tight')
 
 def time_vs_volume(t, Volume):
     fig, ax1 = plt.subplots(figsize=(6, 4))  # Set consistent figure size
@@ -166,3 +176,7 @@ experiment3_I_vs_V_vs_R(V3, I3, R3)
 experiment3_I_vs_V_P(V3, I3)
 experiment3_R_P(V3, I3, R3)
 time_vs_volume(t4, Volume4)
+
+V_vs_I(V2, I2, filename="Exp2_I_vs_V")
+V_vs_I(V4, I4, filename="Exp4_I_vs_V")
+
