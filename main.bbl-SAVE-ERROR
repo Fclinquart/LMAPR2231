@@ -1,0 +1,55 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{labopac2025}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=831f0a783bceee417150240891c65465}{%
+           family={Institute\bibnamedelimb of\bibnamedelima Mechanics},
+           familyi={I\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Materials},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d20fe940be97ccc25e7d388bdf98d551}{%
+           family={Engineering},
+           familyi={E\bibinitperiod},
+           given={Civil},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Louvain School of Engineering}%
+      }
+      \strng{namehash}{bd684211549960a175bd9bbfffbee6bd}
+      \strng{fullhash}{bd684211549960a175bd9bbfffbee6bd}
+      \strng{bibnamehash}{bd684211549960a175bd9bbfffbee6bd}
+      \strng{authorbibnamehash}{bd684211549960a175bd9bbfffbee6bd}
+      \strng{authornamehash}{bd684211549960a175bd9bbfffbee6bd}
+      \strng{authorfullhash}{bd684211549960a175bd9bbfffbee6bd}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available on Moodle for the LMAPR2231 Electrochemistry of Fuel Cells course.}
+      \field{title}{LaboPAC 2025: Electrochemistry of Fuel Cells}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

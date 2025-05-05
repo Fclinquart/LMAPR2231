@@ -1,0 +1,186 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{labopac2025}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=491b557e7575fbc0e66bdf2b6e5e3f2f}{%
+           family={{Institute of Mechanics, Materials and Civil Engineering}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Louvain School of Engineering}%
+      }
+      \strng{namehash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \strng{fullhash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \strng{bibnamehash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \strng{authorbibnamehash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \strng{authornamehash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \strng{authorfullhash}{491b557e7575fbc0e66bdf2b6e5e3f2f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available on Moodle for the LMAPR2231 Electrochemistry of Fuel Cells course}
+      \field{title}{LaboPAC 2025: Electrochemistry of Fuel Cells}
+      \field{year}{2025}
+    \endentry
+    \entry{SocChimFr1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5b5a669f18b5aecbf66d2d20d199501}{%
+           family={{Société Chimique de France}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Société Chimique de France}%
+      }
+      \strng{namehash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \strng{fullhash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \strng{bibnamehash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \strng{authorbibnamehash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \strng{authornamehash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \strng{authorfullhash}{e5b5a669f18b5aecbf66d2d20d199501}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L'Actualité Chimique}
+      \field{month}{1}
+      \field{note}{Numéro 196}
+      \field{title}{Document Pédagogique}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \field{pages}{39}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/1995-196-janv-fev-p39-docpedagogique.pdf
+      \endverb
+      \verb{url}
+      \verb https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/1995-196-janv-fev-p39-docpedagogique.pdf
+      \endverb
+    \endentry
+    \entry{uclouvain_lmapr2231}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=90779fbdf91121e24756a907a8c045d3}{%
+           family={Proost},
+           familyi={P\bibinitperiod},
+           given={Joris},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université catholique de Louvain (UCLouvain)}%
+      }
+      \list{location}{1}{%
+        {Louvain-la-Neuve, Belgium}%
+      }
+      \strng{namehash}{90779fbdf91121e24756a907a8c045d3}
+      \strng{fullhash}{90779fbdf91121e24756a907a8c045d3}
+      \strng{bibnamehash}{90779fbdf91121e24756a907a8c045d3}
+      \strng{authorbibnamehash}{90779fbdf91121e24756a907a8c045d3}
+      \strng{authornamehash}{90779fbdf91121e24756a907a8c045d3}
+      \strng{authorfullhash}{90779fbdf91121e24756a907a8c045d3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{5 ECTS credits; 30h lectures + 22.5h practicals; taught in English (French-friendly); offered in Q2}
+      \field{title}{Metallurgical and Electrochemical Processes (LMAPR2231)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://uclouvain.be/en-cours-2025-lmapr2231
+      \endverb
+      \verb{url}
+      \verb https://uclouvain.be/en-cours-2025-lmapr2231
+      \endverb
+    \endentry
+    \entry{LibreTextsElectrochemicalPotentials}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c6a11616932f1e86aab9516f51b9537a}{%
+           family={LibreTexts},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {LibreTexts}%
+      }
+      \strng{namehash}{c6a11616932f1e86aab9516f51b9537a}
+      \strng{fullhash}{c6a11616932f1e86aab9516f51b9537a}
+      \strng{bibnamehash}{c6a11616932f1e86aab9516f51b9537a}
+      \strng{authorbibnamehash}{c6a11616932f1e86aab9516f51b9537a}
+      \strng{authornamehash}{c6a11616932f1e86aab9516f51b9537a}
+      \strng{authorfullhash}{c6a11616932f1e86aab9516f51b9537a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introduction to Inorganic Chemistry (Wikibook)}
+      \field{title}{4.3: Electrochemical Potentials}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/04%3A_Redox_Stability_and_Redox_Reactions/4.03%3A_Electrochemical_Potentials
+      \endverb
+      \verb{url}
+      \verb https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/04%3A_Redox_Stability_and_Redox_Reactions/4.03%3A_Electrochemical_Potentials
+      \endverb
+    \endentry
+    \entry{wikiWaterElectrolysisThermo}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e2ceeea38f8620383cfbd3e99c5c0cd8}{%
+           family={contributors},
+           familyi={c\bibinitperiod},
+           given={Wikipedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wikipedia}%
+      }
+      \strng{namehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{fullhash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{bibnamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authorbibnamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authornamehash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \strng{authorfullhash}{e2ceeea38f8620383cfbd3e99c5c0cd8}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrolysis of water --- {Thermodynamics}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Electrolysis_of_water#Thermodynamics
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Electrolysis_of_water#Thermodynamics
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
